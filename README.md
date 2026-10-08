@@ -7,7 +7,6 @@ I build secure applications, cybersecurity tools, and social-impact technology f
 ## About Me
 
 * Founder of SafeSisterSA
-* Full Stack Developer certified through FNB App Academy
 * Cybersecurity Analyst focused on threat detection, penetration testing, and secure systems
 * AI Model Trainer working on code evaluation and model safety
 
